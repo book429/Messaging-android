@@ -7,3 +7,8 @@ Using FCM, you can notify a client app that new email or other data is available
 
 For more information go to 
 https://www.androidlearning.com/android-push-notifications-using-firebase-cloud-messaging-fcm-php-mysql/
+
+
+
+![alt text](https://github.com/HarryHaiVn/Call-Recorder/blob/master/home.gif)
+![alt text](https://github.com/HarryHaiVn/Call-Recorder/blob/master/menu.gif)
